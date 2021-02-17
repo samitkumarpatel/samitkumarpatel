@@ -1,4 +1,5 @@
-### Hi there 👋
+### This Repository contain my Idea and Learning as code 👋
+
 
 <!--
 **samitkumarpatel/samitkumarpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
