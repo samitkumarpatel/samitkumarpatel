@@ -1,5 +1,5 @@
 ### This Repository contains my Ideas and learning as code 👋
-- 🔭 I’m currently working a lot with:
+- 🔭 I’m actively working on:
   - Microservices.
   - Java.
   - Spring Webflux, Spring Boot, Spring Data, R2DBC, Spring Security.
