@@ -6,7 +6,7 @@
   - Cloud - Azure, AWS, GCP, DigitalOcean.
   - Docker, Kubernetes.
   - Observability, Monitoring.
-  - Programming Language, I worked on my day-to-day job:
+  - Programming Language, I worked on my day-to-day jobs are:
     - Java.
     - Python, Groovy
     - Go Lang
