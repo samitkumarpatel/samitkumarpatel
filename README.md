@@ -1,17 +1,18 @@
 ### This Repository contains my Ideas and learning as code 👋
 - 🔭 I’m actively working on:
   - Microservices.
-  - Java.
-  - Spring Webflux, Spring Boot, Spring Data, R2DBC, Spring Security.
   - Pipeline as code - Azure DevOps, GitHub Action, Jenkins
   - Infrastructure as code - Terraform, Pulumi.
   - Cloud - Azure, AWS, GCP, DigitalOcean.
-  - Python, Groovy
-  - Go Lang
   - Docker, Kubernetes.
   - Observability, Monitoring.
-  - Vue.js
-  - React.js
+  - Programming Language, I worked on my day-to-day job:
+    - Java.
+    - Python, Groovy
+    - Go Lang
+    - Spring Webflux, Spring Boot, Spring Data, R2DBC, Spring Security.
+    - Vue.js
+    - React.js
 - 🌱 I’m currently learning Oauth2 flow.
 - 👯 I’m looking to collaborate more on open-source
 - 🤔 I’m looking for help with the Go Lang ecosystem.
