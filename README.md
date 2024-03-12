@@ -1,12 +1,13 @@
 ### This Repository contains my Ideas and learning as code 👋
 - 🔭 I’m actively working on:
-  - Microservices.
   - Pipeline as code - Azure DevOps, GitHub Action, Jenkins
   - Infrastructure as code - Terraform, Pulumi.
   - Cloud - Azure, AWS, GCP, DigitalOcean.
   - Docker, Kubernetes.
   - Observability, Monitoring.
-  - Programming Language or framework, I worked on my day-to-day jobs are:
+  - Microservices Development with Java Spring boot, GoLang, Node.js.
+  - Micro frontend with Vue.js, React.js and angular.js
+  - Programming Language or framework, I worked or using on my day-to-day jobs are:
     - Java.
     - Python, Groovy
     - Go Lang
