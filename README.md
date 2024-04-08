@@ -2,21 +2,14 @@
 
 🔭 I’m currently focusing on:
 
-`Pipeline as code` : Azure DevOps, GitHub Actions, Jenkins
-
-`Infrastructure as code` : Terraform, Pulumi
-
-`Configuration as code ` : Ansible.
-
-`Cloud platforms` : Azure, AWS, GCP, DigitalOcean
-
-`Containerization` : Docker, Kubernetes
-
-`Observability and monitoring` : ELK, Grafana, DataDog
-
-`Microservices` development with Java Spring Boot, GoLang, Node.js
-
-`Micro frontend` with Vue.js, React.js, and Angular.js
+- `Pipeline as code` : Azure DevOps, GitHub Actions, Jenkins
+- `Infrastructure as code` : Terraform, Pulumi
+- `Configuration as code ` : Ansible.
+- `Cloud platforms` : Azure, AWS, GCP, DigitalOcean
+- `Containerization` : Docker, Kubernetes
+- `Observability and monitoring` : ELK, Grafana, DataDog
+- `Microservices` development with Java Spring Boot, GoLang, Node.js
+- `Micro frontend` with Vue.js, React.js, and Angular.js
 
 💻 `Programming languages` and `frameworks` I frequently work with:
 
