@@ -1,26 +1,47 @@
-### This Repository contains my Ideas and learning as code 👋
-- 🔭 I’m actively working on:
-  - Pipeline as code - Azure DevOps, GitHub Action, Jenkins
-  - Infrastructure as code - Terraform, Pulumi.
-  - Cloud - Azure, AWS, GCP, DigitalOcean.
-  - Docker, Kubernetes.
-  - Observability, Monitoring.
-  - Microservices Development with Java Spring boot, GoLang, Node.js.
-  - Micro frontend with Vue.js, React.js and angular.js
-  - Programming Language or framework, I worked or using on my day-to-day jobs are:
-    - Java.
-    - Python, Groovy
-    - Go Lang
-    - Spring Webflux, Spring Boot, Spring Data, R2DBC, Spring Security.
-    - Vue.js
-    - React.js
-- 🌱 I’m currently learning Oauth2 flow.
-- 👯 I’m looking to collaborate more on open-source
-- 🤔 I’m looking for help with the Go Lang ecosystem.
-- 💬 Ask me about all the above Tech stacks I'm currently working on.
-- 📫 How to reach me? : samitkumarpatel@live.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: :thinking:
+👋 Welcome to my GitHub repository where I share my ideas and learnings through code!
+
+🔭 I’m currently focusing on:
+
+`Pipeline as code` : Azure DevOps, GitHub Actions, Jenkins
+
+`Infrastructure as code` : Terraform, Pulumi
+
+`Configuration as code ` : Ansible.
+
+`Cloud platforms` : Azure, AWS, GCP, DigitalOcean
+
+`Containerization` : Docker, Kubernetes
+
+`Observability and monitoring` : ELK, Grafana, DataDog
+
+`Microservices` development with Java Spring Boot, GoLang, Node.js
+
+`Micro frontend` with Vue.js, React.js, and Angular.js
+
+💻 `Programming languages` and `frameworks` I frequently work with:
+
+- Java
+- Go Lang
+- Python 
+- Groovy
+- Spring Webflux, Spring Boot, Spring Data (R2DBC, JPA, JDBC), Spring Security
+- Node.js
+- Vue.js
+- React.js
+
+🌱 I’m currently learning about the OAuth2 flow, Security.
+
+👯 I’m open to collaborating more on open-source projects.
+
+🤔 I’m seeking assistance with the Go Lang ecosystem.
+
+💬 Feel free to ask me anything about the tech stacks I'm currently working with.
+
+📫 You can reach me at: samitkumarpatel@live.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Did you know Full-stack developers are like Swiss Army knives of the tech world, equipped with the skills to handle both front-end and back-end development tasks! 🛠️💻
 
 
 <!--
